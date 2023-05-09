@@ -1,4 +1,4 @@
-import { randomNumber } from './util';
+import { randomNumber } from './util.js';
 const photos = [];
 
 for (let i = 1; i < 26; i++) {
